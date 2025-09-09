@@ -1,5 +1,5 @@
-# WebRevShell
-A PHP reverse shell that is accessible not using a listener.
+# WebShell
+A PHP shell that is accessible not using a listener.
 
 # Disclaimer
 
